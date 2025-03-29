@@ -1,0 +1,17 @@
+# esto es el titulo
+
+Saturday, March 29, 2025 9:49 AM
+
+esto es texto
+
+El numero magico es 5683
+
+La palabra secreta es "Chirimbolo"
+
+Nuestra tematica del HackITBA es sustentabilidad
+
+HackITBA Page 1
+
+
+-----
+
