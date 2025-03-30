@@ -1,0 +1,17 @@
+He analizado el reporte ESG proporcionado y aquí están los hallazgos sobre las secciones recomendadas por la Guía de la CNV que faltan o están incompletas:
+
+1. **Identificación de la audiencia**: No se menciona claramente si se han considerado todos los grupos de interés relevantes, como inversores, trabajadores, consumidores, y sociedad civil.
+
+2. **Materialidad**: Existe una falta de claridad en la identificación de los temas materiales desde ambas perspectivas (financiera e impacto). No se observa la aplicación del enfoque de doble materialidad.
+
+3. **Indicadores de desempeño**: No se indican indicadores reconocidos internacionalmente (como GRI, SASB, ISSB, TCFD), ni se explica la metodología para su selección.
+
+4. **Estrategias y metas**: Las estrategias para abordar temas materiales ASG no son específicas. Las metas a corto, mediano y largo plazo no están claramente descritas.
+
+5. **Mecanismos de gobernanza**: Los mecanismos de gobernanza y los compromisos de la empresa no se detallan adecuadamente.
+
+6. **Acciones llevadas a cabo**: Las acciones emprendidas en el período del reporte en relación con los temas materiales identificados no se describen de manera suficiente.
+
+7. **Verificación externa**: No se menciona si el reporte ha sido sometido a procesos de verificación externa.
+
+En conclusión, el reporte necesita mejorar en varios aspectos clave para cumplir con las pautas de divulgación ASG recomendadas por la CNV.

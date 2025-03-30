@@ -1,0 +1,32 @@
+Resumen de Generación de Informe ESG
+Objetivo:
+
+Necesitamos generar un resumen conciso y perspicaz de los informes ESG (Ambientales, Sociales y de Gobernanza) mediante el análisis de su contenido, la extracción de los conocimientos clave y la evaluación de su cumplimiento con las pautas estandarizadas y las leyes argentinas relacionadas con ESG.
+
+Contexto:
+
+Recopilamos y procesamos informes ESG de diversas empresas.
+
+Los puntajes ESG se obtienen a través de una API, que proporciona métricas estandarizadas.
+
+Aplicamos técnicas de Procesamiento de Lenguaje Natural (PLN) para evaluar la estructura y el contenido de estos informes.
+
+Medimos la similitud coseno entre las diferentes secciones del informe y un conjunto predefinido de regulaciones ESG argentinas para evaluar el cumplimiento legal.
+
+Generamos puntajes estructurados, métricas e indicadores de cumplimiento para cuantificar la adherencia a los estándares ESG.
+
+Salida Esperada:
+
+El LLM debe generar un resumen bien estructurado del informe ESG que incluya:
+
+Hallazgos Clave: Una visión general breve de los hallazgos más relevantes del informe.
+
+Evaluación de Cumplimiento: Qué tan bien se alinea el informe con las pautas estandarizadas y los requisitos legales.
+
+Interpretación de los Puntajes ESG: Explicación de los puntajes ESG obtenidos de la API.
+
+Perspectivas de Similitud de Texto: Áreas clave del informe que coinciden o se desvían de las leyes argentinas.
+
+Mejoras Potenciales: Recomendaciones para mejorar el cumplimiento y la claridad del informe.
+
+Este resumen debe ser conciso, claro y accionable, facilitando la comprensión del desempeño ESG y el cumplimiento de una empresa.

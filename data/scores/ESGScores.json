@@ -1,0 +1,1466 @@
+{
+    "Aluar 2023-2024": {
+        "company_pdf": "Aluar 2023-2024.pdf",
+        "company_name": "Aluar Aluminio Argentino SAIC",
+        "global_enviroment_score": 18,
+        "enviroment_scores": {
+            "Emissions": 22,
+            "Resource Use": 7,
+            "Innovation": 50
+        },
+        "global_social_score": 32,
+        "social_scores": {
+            "Human Rights": 24,
+            "Product Responsibility": 60,
+            "Workforce": 25,
+            "Community": 46
+        },
+        "global_governance_score": 41,
+        "governance_scores": {
+            "Management": 49,
+            "Shareholders": 29,
+            "CSR Strategy": 20
+        },
+        "overall_score": 29
+    },
+    "Aluar 2022-2023": {
+        "company_pdf": "Aluar 2022-2023.pdf",
+        "company_name": "Aluar Aluminio Argentino SAIC",
+        "global_enviroment_score": 16,
+        "enviroment_scores": {
+            "Emissions": 20,
+            "Resource Use": 6,
+            "Innovation": 45
+        },
+        "global_social_score": 29,
+        "social_scores": {
+            "Human Rights": 22,
+            "Product Responsibility": 55,
+            "Workforce": 23,
+            "Community": 42
+        },
+        "global_governance_score": 37,
+        "governance_scores": {
+            "Management": 44,
+            "Shareholders": 26,
+            "CSR Strategy": 18
+        },
+        "overall_score": 26
+    },
+    "AuSol_Memoria_y_Estados_Financieros_2023": {
+        "company_pdf": "AuSol_Memoria_y_Estados_Financieros_2023.pdf",
+        "company_name": "Autopistas del Sol",
+        "global_enviroment_score": 30,
+        "enviroment_scores": {
+            "Emissions": 25,
+            "Resource Use": 35,
+            "Innovation": 30
+        },
+        "global_social_score": 40,
+        "social_scores": {
+            "Human Rights": 45,
+            "Product Responsibility": 35,
+            "Workforce": 50,
+            "Community": 30
+        },
+        "global_governance_score": 50,
+        "governance_scores": {
+            "Management": 55,
+            "Shareholders": 40,
+            "CSR Strategy": 55
+        },
+        "overall_score": 40
+    },
+    "BYMA-Reporte_Sustentabilidad-2023_compacta": {
+        "company_pdf": "BYMA-Reporte_Sustentabilidad-2023_compacta.pdf",
+        "company_name": "Bolsa y Mercados Argentinos",
+        "global_enviroment_score": 50,
+        "enviroment_scores": {
+            "Emissions": 45,
+            "Resource Use": 50,
+            "Innovation": 55
+        },
+        "global_social_score": 60,
+        "social_scores": {
+            "Human Rights": 65,
+            "Product Responsibility": 55,
+            "Workforce": 60,
+            "Community": 60
+        },
+        "global_governance_score": 70,
+        "governance_scores": {
+            "Management": 75,
+            "Shareholders": 65,
+            "CSR Strategy": 70
+        },
+        "overall_score": 60
+    },
+    "BYMA-Reporte_Sustentabilidad-2022": {
+        "company_pdf": "BYMA-Reporte_Sustentabilidad-2022.pdf",
+        "company_name": "Bolsa y Mercados Argentinos",
+        "global_enviroment_score": 45,
+        "enviroment_scores": {
+            "Emissions": 40,
+            "Resource Use": 45,
+            "Innovation": 50
+        },
+        "global_social_score": 55,
+        "social_scores": {
+            "Human Rights": 60,
+            "Product Responsibility": 50,
+            "Workforce": 55,
+            "Community": 55
+        },
+        "global_governance_score": 65,
+        "governance_scores": {
+            "Management": 70,
+            "Shareholders": 60,
+            "CSR Strategy": 65
+        },
+        "overall_score": 55
+    },
+    "Banco Macro-MemoriaAnual-2024-Principal": {
+        "company_pdf": "Banco Macro-MemoriaAnual-2024-Principal.pdf",
+        "company_name": "Banco Macro SA",
+        "global_enviroment_score": 80,
+        "enviroment_scores": {
+            "Emissions": 90,
+            "Resource Use": 80,
+            "Innovation": 53
+        },
+        "global_social_score": 68,
+        "social_scores": {
+            "Human Rights": 53,
+            "Product Responsibility": 75,
+            "Workforce": 78,
+            "Community": 60
+        },
+        "global_governance_score": 64,
+        "governance_scores": {
+            "Management": 78,
+            "Shareholders": 13,
+            "CSR Strategy": 71
+        },
+        "overall_score": 66
+    },
+    "Banco Macro-MemoriaAnual-2024-Complementario": {
+        "company_pdf": "Banco Macro-MemoriaAnual-2024-Complementario.pdf",
+        "company_name": "Banco Macro SA",
+        "global_enviroment_score": 80,
+        "enviroment_scores": {
+            "Emissions": 90,
+            "Resource Use": 80,
+            "Innovation": 53
+        },
+        "global_social_score": 68,
+        "social_scores": {
+            "Human Rights": 53,
+            "Product Responsibility": 75,
+            "Workforce": 78,
+            "Community": 60
+        },
+        "global_governance_score": 64,
+        "governance_scores": {
+            "Management": 78,
+            "Shareholders": 13,
+            "CSR Strategy": 71
+        },
+        "overall_score": 66
+    },
+    "Banco Macro-MemoriaAnual-2023-Principal": {
+        "company_pdf": "Banco Macro-MemoriaAnual-2023-Principal.pdf",
+        "company_name": "Banco Macro SA",
+        "global_enviroment_score": 76,
+        "enviroment_scores": {
+            "Emissions": 86,
+            "Resource Use": 76,
+            "Innovation": 50
+        },
+        "global_social_score": 65,
+        "social_scores": {
+            "Human Rights": 50,
+            "Product Responsibility": 71,
+            "Workforce": 74,
+            "Community": 57
+        },
+        "global_governance_score": 61,
+        "governance_scores": {
+            "Management": 74,
+            "Shareholders": 12,
+            "CSR Strategy": 68
+        },
+        "overall_score": 63
+    },
+    "Banco Macro-MemoriaAnual-2023-Complementario": {
+        "company_pdf": "Banco Macro-MemoriaAnual-2023-Complementario.pdf",
+        "company_name": "Banco Macro SA",
+        "global_enviroment_score": 76,
+        "enviroment_scores": {
+            "Emissions": 86,
+            "Resource Use": 76,
+            "Innovation": 50
+        },
+        "global_social_score": 65,
+        "social_scores": {
+            "Human Rights": 50,
+            "Product Responsibility": 71,
+            "Workforce": 74,
+            "Community": 57
+        },
+        "global_governance_score": 61,
+        "governance_scores": {
+            "Management": 74,
+            "Shareholders": 12,
+            "CSR Strategy": 68
+        },
+        "overall_score": 63
+    },
+    "Banco Macro-MemoriaAnual-2022-Principal": {
+        "company_pdf": "Banco Macro-MemoriaAnual-2022-Principal.pdf",
+        "company_name": "Banco Macro SA",
+        "global_enviroment_score": 70,
+        "enviroment_scores": {
+            "Emissions": 80,
+            "Resource Use": 70,
+            "Innovation": 45
+        },
+        "global_social_score": 60,
+        "social_scores": {
+            "Human Rights": 45,
+            "Product Responsibility": 65,
+            "Workforce": 68,
+            "Community": 52
+        },
+        "global_governance_score": 56,
+        "governance_scores": {
+            "Management": 68,
+            "Shareholders": 11,
+            "CSR Strategy": 62
+        },
+        "overall_score": 58
+    },
+    "Banco Macro-MemoriaAnual-2022-Complementario": {
+        "company_pdf": "Banco Macro-MemoriaAnual-2022-Complementario.pdf",
+        "company_name": "Banco Macro SA",
+        "global_enviroment_score": 70,
+        "enviroment_scores": {
+            "Emissions": 80,
+            "Resource Use": 70,
+            "Innovation": 45
+        },
+        "global_social_score": 60,
+        "social_scores": {
+            "Human Rights": 45,
+            "Product Responsibility": 65,
+            "Workforce": 68,
+            "Community": 52
+        },
+        "global_governance_score": 56,
+        "governance_scores": {
+            "Management": 68,
+            "Shareholders": 11,
+            "CSR Strategy": 62
+        },
+        "overall_score": 58
+    },
+    "Central Puerto-Reporte-de-Sustentabilidad-2023-VF": {
+        "company_pdf": "Central Puerto-Reporte-de-Sustentabilidad-2023-VF.pdf",
+        "company_name": "Central Puerto SA",
+        "global_enviroment_score": 28,
+        "enviroment_scores": {
+            "Emissions": 28,
+            "Resource Use": 29,
+            "Innovation": 27
+        },
+        "global_social_score": 51,
+        "social_scores": {
+            "Human Rights": 88,
+            "Product Responsibility": 74,
+            "Workforce": 34,
+            "Community": 34
+        },
+        "global_governance_score": 53,
+        "governance_scores": {
+            "Management": 46,
+            "Shareholders": 94,
+            "CSR Strategy": 30
+        },
+        "overall_score": 42
+    },
+    "Central Puerto-Reporte-de-Sustentabilidad-2022": {
+        "company_pdf": "Central Puerto-Reporte-de-Sustentabilidad-2022.pdf",
+        "company_name": "Central Puerto SA",
+        "global_enviroment_score": 25,
+        "enviroment_scores": {
+            "Emissions": 25,
+            "Resource Use": 26,
+            "Innovation": 24
+        },
+        "global_social_score": 46,
+        "social_scores": {
+            "Human Rights": 80,
+            "Product Responsibility": 67,
+            "Workforce": 31,
+            "Community": 31
+        },
+        "global_governance_score": 48,
+        "governance_scores": {
+            "Management": 41,
+            "Shareholders": 85,
+            "CSR Strategy": 27
+        },
+        "overall_score": 38
+    },
+    "Cresud - ReporteDeSustentabilidad2024": {
+        "company_pdf": "Cresud - ReporteDeSustentabilidad2024.pdf",
+        "company_name": "Cresud SACIF y A",
+        "global_enviroment_score": 50,
+        "enviroment_scores": {
+            "Emissions": 71,
+            "Resource Use": 39,
+            "Innovation": 0
+        },
+        "global_social_score": 24,
+        "social_scores": {
+            "Human Rights": 0,
+            "Product Responsibility": 23,
+            "Workforce": 25,
+            "Community": 61
+        },
+        "global_governance_score": 77,
+        "governance_scores": {
+            "Management": 82,
+            "Shareholders": 92,
+            "CSR Strategy": 25
+        },
+        "overall_score": 45
+    },
+    "Cresud - ReporteDeSustentabilidad2023": {
+        "company_pdf": "Cresud - ReporteDeSustentabilidad2023.pdf",
+        "company_name": "Cresud SACIF y A",
+        "global_enviroment_score": 48,
+        "enviroment_scores": {
+            "Emissions": 68,
+            "Resource Use": 37,
+            "Innovation": 0
+        },
+        "global_social_score": 23,
+        "social_scores": {
+            "Human Rights": 0,
+            "Product Responsibility": 22,
+            "Workforce": 24,
+            "Community": 58
+        },
+        "global_governance_score": 73,
+        "governance_scores": {
+            "Management": 78,
+            "Shareholders": 88,
+            "CSR Strategy": 24
+        },
+        "overall_score": 43
+    },
+    "Cresud - ReporteDeSustentabilidad2022": {
+        "company_pdf": "Cresud - ReporteDeSustentabilidad2022.pdf",
+        "company_name": "Cresud SACIF y A",
+        "global_enviroment_score": 43,
+        "enviroment_scores": {
+            "Emissions": 61,
+            "Resource Use": 33,
+            "Innovation": 0
+        },
+        "global_social_score": 21,
+        "social_scores": {
+            "Human Rights": 0,
+            "Product Responsibility": 20,
+            "Workforce": 22,
+            "Community": 52
+        },
+        "global_governance_score": 66,
+        "governance_scores": {
+            "Management": 70,
+            "Shareholders": 79,
+            "CSR Strategy": 22
+        },
+        "overall_score": 39
+    },
+    "Edenor - Reporte_de_Sustentabilidad2024": {
+        "company_pdf": "Edenor - Reporte_de_Sustentabilidad2024.pdf",
+        "company_name": "Edenor",
+        "global_enviroment_score": 35,
+        "enviroment_scores": {
+            "Emissions": 30,
+            "Resource Use": 40,
+            "Innovation": 35
+        },
+        "global_social_score": 55,
+        "social_scores": {
+            "Human Rights": 60,
+            "Product Responsibility": 50,
+            "Workforce": 55,
+            "Community": 55
+        },
+        "global_governance_score": 60,
+        "governance_scores": {
+            "Management": 65,
+            "Shareholders": 55,
+            "CSR Strategy": 60
+        },
+        "overall_score": 45
+    },
+    "Edenor - Reporte_de_Sustentabilidad2023": {
+        "company_pdf": "Edenor - Reporte_de_Sustentabilidad2023.pdf",
+        "company_name": "Edenor",
+        "global_enviroment_score": 32,
+        "enviroment_scores": {
+            "Emissions": 27,
+            "Resource Use": 36,
+            "Innovation": 32
+        },
+        "global_social_score": 50,
+        "social_scores": {
+            "Human Rights": 54,
+            "Product Responsibility": 45,
+            "Workforce": 50,
+            "Community": 50
+        },
+        "global_governance_score": 54,
+        "governance_scores": {
+            "Management": 59,
+            "Shareholders": 50,
+            "CSR Strategy": 54
+        },
+        "overall_score": 41
+    },
+    "Edenor - Reporte_de_Sustentabilidad2022": {
+        "company_pdf": "Edenor - Reporte_de_Sustentabilidad2022.pdf",
+        "company_name": "Edenor",
+        "global_enviroment_score": 29,
+        "enviroment_scores": {
+            "Emissions": 24,
+            "Resource Use": 32,
+            "Innovation": 29
+        },
+        "global_social_score": 45,
+        "social_scores": {
+            "Human Rights": 49,
+            "Product Responsibility": 41,
+            "Workforce": 45,
+            "Community": 45
+        },
+        "global_governance_score": 49,
+        "governance_scores": {
+            "Management": 53,
+            "Shareholders": 45,
+            "CSR Strategy": 49
+        },
+        "overall_score": 37
+    },
+    "Galicia - Informe Integrado 2023": {
+        "company_pdf": "Galicia - Informe Integrado 2023.pdf",
+        "company_name": "Grupo Financiero Galicia SA",
+        "global_enviroment_score": 92,
+        "enviroment_scores": {
+            "Emissions": 100,
+            "Resource Use": 90,
+            "Innovation": 76
+        },
+        "global_social_score": 79,
+        "social_scores": {
+            "Human Rights": 36,
+            "Product Responsibility": 87,
+            "Workforce": 92,
+            "Community": 86
+        },
+        "global_governance_score": 54,
+        "governance_scores": {
+            "Management": 62,
+            "Shareholders": 4,
+            "CSR Strategy": 93
+        },
+        "overall_score": 71
+    },
+    "Galicia - Informe 2022": {
+        "company_pdf": "Galicia - Informe 2022.pdf",
+        "company_name": "Grupo Financiero Galicia SA",
+        "global_enviroment_score": 83,
+        "enviroment_scores": {
+            "Emissions": 90,
+            "Resource Use": 81,
+            "Innovation": 68
+        },
+        "global_social_score": 71,
+        "social_scores": {
+            "Human Rights": 32,
+            "Product Responsibility": 78,
+            "Workforce": 83,
+            "Community": 77
+        },
+        "global_governance_score": 49,
+        "governance_scores": {
+            "Management": 56,
+            "Shareholders": 4,
+            "CSR Strategy": 84
+        },
+        "overall_score": 64
+    },
+    "Galicia_InformeIntegrado2021": {
+        "company_pdf": "Galicia_InformeIntegrado2021.pdf",
+        "company_name": "Grupo Financiero Galicia SA",
+        "global_enviroment_score": 74,
+        "enviroment_scores": {
+            "Emissions": 80,
+            "Resource Use": 72,
+            "Innovation": 61
+        },
+        "global_social_score": 63,
+        "social_scores": {
+            "Human Rights": 29,
+            "Product Responsibility": 70,
+            "Workforce": 74,
+            "Community": 69
+        },
+        "global_governance_score": 43,
+        "governance_scores": {
+            "Management": 50,
+            "Shareholders": 3,
+            "CSR Strategy": 74
+        },
+        "overall_score": 57
+    },
+    "Grupo MR 2024": {
+        "company_pdf": "Grupo MR 2024.pdf",
+        "company_name": "Grupo MR",
+        "global_enviroment_score": 40,
+        "enviroment_scores": {
+            "Emissions": 35,
+            "Resource Use": 45,
+            "Innovation": 40
+        },
+        "global_social_score": 60,
+        "social_scores": {
+            "Human Rights": 65,
+            "Product Responsibility": 55,
+            "Workforce": 60,
+            "Community": 60
+        },
+        "global_governance_score": 65,
+        "governance_scores": {
+            "Management": 70,
+            "Shareholders": 60,
+            "CSR Strategy": 65
+        },
+        "overall_score": 50
+    },
+    "Grupo MR 2022-2023": {
+        "company_pdf": "Grupo MR 2022-2023.pdf",
+        "company_name": "Grupo MR",
+        "global_enviroment_score": 36,
+        "enviroment_scores": {
+            "Emissions": 32,
+            "Resource Use": 41,
+            "Innovation": 36
+        },
+        "global_social_score": 54,
+        "social_scores": {
+            "Human Rights": 59,
+            "Product Responsibility": 50,
+            "Workforce": 54,
+            "Community": 54
+        },
+        "global_governance_score": 59,
+        "governance_scores": {
+            "Management": 63,
+            "Shareholders": 54,
+            "CSR Strategy": 59
+        },
+        "overall_score": 45
+    },
+    "Grupo MR 2022": {
+        "company_pdf": "Grupo MR 2022.pdf",
+        "company_name": "Grupo MR",
+        "global_enviroment_score": 32,
+        "enviroment_scores": {
+            "Emissions": 28,
+            "Resource Use": 36,
+            "Innovation": 32
+        },
+        "global_social_score": 49,
+        "social_scores": {
+            "Human Rights": 53,
+            "Product Responsibility": 45,
+            "Workforce": 49,
+            "Community": 49
+        },
+        "global_governance_score": 53,
+        "governance_scores": {
+            "Management": 56,
+            "Shareholders": 49,
+            "CSR Strategy": 53
+        },
+        "overall_score": 41
+    },
+    "Grupo MR 2020-2021": {
+        "company_pdf": "Grupo MR 2020-2021.pdf",
+        "company_name": "Grupo MR",
+        "global_enviroment_score": 29,
+        "enviroment_scores": {
+            "Emissions": 25,
+            "Resource Use": 32,
+            "Innovation": 29
+        },
+        "global_social_score": 44,
+        "social_scores": {
+            "Human Rights": 47,
+            "Product Responsibility": 40,
+            "Workforce": 44,
+            "Community": 44
+        },
+        "global_governance_score": 47,
+        "governance_scores": {
+            "Management": 50,
+            "Shareholders": 43,
+            "CSR Strategy": 47
+        },
+        "overall_score": 37
+    },
+    "Grupo MR 2019": {
+        "company_pdf": "Grupo MR 2019.pdf",
+        "company_name": "Grupo MR",
+        "global_enviroment_score": 26,
+        "enviroment_scores": {
+            "Emissions": 23,
+            "Resource Use": 29,
+            "Innovation": 26
+        },
+        "global_social_score": 40,
+        "social_scores": {
+            "Human Rights": 43,
+            "Product Responsibility": 36,
+            "Workforce": 40,
+            "Community": 40
+        },
+        "global_governance_score": 43,
+        "governance_scores": {
+            "Management": 46,
+            "Shareholders": 40,
+            "CSR Strategy": 43
+        },
+        "overall_score": 33
+    },
+    "Grupo MR 2018": {
+        "company_pdf": "Grupo MR 2018.pdf",
+        "company_name": "Grupo MR",
+        "global_enviroment_score": 23,
+        "enviroment_scores": {
+            "Emissions": 20,
+            "Resource Use": 25,
+            "Innovation": 23
+        },
+        "global_social_score": 35,
+        "social_scores": {
+            "Human Rights": 37,
+            "Product Responsibility": 31,
+            "Workforce": 35,
+            "Community": 35
+        },
+        "global_governance_score": 37,
+        "governance_scores": {
+            "Management": 39,
+            "Shareholders": 34,
+            "CSR Strategy": 37
+        },
+        "overall_score": 29
+    },
+    "Mirgor - Reporte-de-Sostenibilidad-2023": {
+        "company_pdf": "Mirgor - Reporte-de-Sostenibilidad-2023.pdf",
+        "company_name": "Mirgor SACIFIA",
+        "global_enviroment_score": 44,
+        "enviroment_scores": {
+            "Emissions": 39,
+            "Resource Use": 47,
+            "Innovation": 44
+        },
+        "global_social_score": 41,
+        "social_scores": {
+            "Human Rights": 20,
+            "Product Responsibility": 33,
+            "Workforce": 78,
+            "Community": 51
+        },
+        "global_governance_score": 12,
+        "governance_scores": {
+            "Management": 8,
+            "Shareholders": 1,
+            "CSR Strategy": 47
+        },
+        "overall_score": 34
+    },
+    "Mirgor - Reporte-de-Sostenibilidad-2022": {
+        "company_pdf": "Mirgor - Reporte-de-Sostenibilidad-2022.pdf",
+        "company_name": "Mirgor SACIFIA",
+        "global_enviroment_score": 40,
+        "enviroment_scores": {
+            "Emissions": 35,
+            "Resource Use": 42,
+            "Innovation": 40
+        },
+        "global_social_score": 37,
+        "social_scores": {
+            "Human Rights": 18,
+            "Product Responsibility": 30,
+            "Workforce": 70,
+            "Community": 46
+        },
+        "global_governance_score": 11,
+        "governance_scores": {
+            "Management": 7,
+            "Shareholders": 1,
+            "CSR Strategy": 42
+        },
+        "overall_score": 31
+    },
+    "Mirgor - Reporte-de-Sostenibilidad-2021": {
+        "company_pdf": "Mirgor - Reporte-de-Sostenibilidad-2021.pdf",
+        "company_name": "Mirgor SACIFIA",
+        "global_enviroment_score": 35,
+        "enviroment_scores": {
+            "Emissions": 31,
+            "Resource Use": 38,
+            "Innovation": 35
+        },
+        "global_social_score": 33,
+        "social_scores": {
+            "Human Rights": 16,
+            "Product Responsibility": 26,
+            "Workforce": 62,
+            "Community": 41
+        },
+        "global_governance_score": 10,
+        "governance_scores": {
+            "Management": 6,
+            "Shareholders": 1,
+            "CSR Strategy": 38
+        },
+        "overall_score": 27
+    },
+    "Pampa-2023-Reporte-Sustentabilidad": {
+        "company_pdf": "Pampa-2023-Reporte-Sustentabilidad.pdf",
+        "company_name": "Pampa Energia SA",
+        "global_enviroment_score": 40,
+        "enviroment_scores": {
+            "Emissions": 28,
+            "Resource Use": 75,
+            "Innovation": 17
+        },
+        "global_social_score": 47,
+        "social_scores": {
+            "Human Rights": 5,
+            "Product Responsibility": 81,
+            "Workforce": 60,
+            "Community": 42
+        },
+        "global_governance_score": 100,
+        "governance_scores": {
+            "Management": 100,
+            "Shareholders": 92,
+            "CSR Strategy": 100
+        },
+        "overall_score": 58
+    },
+    "Pampa-2022-Reporte-Sustentabilidad": {
+        "company_pdf": "Pampa-2022-Reporte-Sustentabilidad.pdf",
+        "company_name": "Pampa Energia SA",
+        "global_enviroment_score": 38,
+        "enviroment_scores": {
+            "Emissions": 27,
+            "Resource Use": 71,
+            "Innovation": 16
+        },
+        "global_social_score": 45,
+        "social_scores": {
+            "Human Rights": 5,
+            "Product Responsibility": 77,
+            "Workforce": 57,
+            "Community": 40
+        },
+        "global_governance_score": 95,
+        "governance_scores": {
+            "Management": 97,
+            "Shareholders": 88,
+            "CSR Strategy": 95
+        },
+        "overall_score": 55
+    },
+    "Pampa-2021-Reporte-Sustentabilidad": {
+        "company_pdf": "Pampa-2021-Reporte-Sustentabilidad.pdf",
+        "company_name": "Pampa Energia SA",
+        "global_enviroment_score": 34,
+        "enviroment_scores": {
+            "Emissions": 24,
+            "Resource Use": 64,
+            "Innovation": 14
+        },
+        "global_social_score": 41,
+        "social_scores": {
+            "Human Rights": 5,
+            "Product Responsibility": 69,
+            "Workforce": 51,
+            "Community": 36
+        },
+        "global_governance_score": 86,
+        "governance_scores": {
+            "Management": 87,
+            "Shareholders": 79,
+            "CSR Strategy": 86
+        },
+        "overall_score": 50
+    },
+    "Reporte Supervielle 2024": {
+        "company_pdf": "Reporte Supervielle 2024.pdf",
+        "company_name": "Grupo Supervielle SA",
+        "global_enviroment_score": 89,
+        "enviroment_scores": {
+            "Emissions": 100,
+            "Resource Use": 88,
+            "Innovation": 68
+        },
+        "global_social_score": 59,
+        "social_scores": {
+            "Human Rights": 19,
+            "Product Responsibility": 27,
+            "Workforce": 90,
+            "Community": 64
+        },
+        "global_governance_score": 75,
+        "governance_scores": {
+            "Management": 89,
+            "Shareholders": 23,
+            "CSR Strategy": 81
+        },
+        "overall_score": 67
+    },
+    "Reporte Supervielle 2023": {
+        "company_pdf": "Reporte Supervielle 2023.pdf",
+        "company_name": "Grupo Supervielle SA",
+        "global_enviroment_score": 85,
+        "enviroment_scores": {
+            "Emissions": 97,
+            "Resource Use": 84,
+            "Innovation": 65
+        },
+        "global_social_score": 56,
+        "social_scores": {
+            "Human Rights": 18,
+            "Product Responsibility": 26,
+            "Workforce": 86,
+            "Community": 61
+        },
+        "global_governance_score": 71,
+        "governance_scores": {
+            "Management": 85,
+            "Shareholders": 22,
+            "CSR Strategy": 77
+        },
+        "overall_score": 64
+    },
+    "Reporte Supervielle 2022": {
+        "company_pdf": "Reporte Supervielle 2022.pdf",
+        "company_name": "Grupo Supervielle SA",
+        "global_enviroment_score": 77,
+        "enviroment_scores": {
+            "Emissions": 87,
+            "Resource Use": 76,
+            "Innovation": 59
+        },
+        "global_social_score": 50,
+        "social_scores": {
+            "Human Rights": 16,
+            "Product Responsibility": 23,
+            "Workforce": 77,
+            "Community": 55
+        },
+        "global_governance_score": 64,
+        "governance_scores": {
+            "Management": 77,
+            "Shareholders": 20,
+            "CSR Strategy": 69
+        },
+        "overall_score": 58
+    },
+    "Reporte-BBVA-2023": {
+        "company_pdf": "Reporte-BBVA-2023.pdf",
+        "company_name": "Banco BBVA Argentina SA",
+        "global_enviroment_score": 80,
+        "enviroment_scores": {
+            "Emissions": 92,
+            "Resource Use": 91,
+            "Innovation": 50
+        },
+        "global_social_score": 83,
+        "social_scores": {
+            "Human Rights": 93,
+            "Product Responsibility": 96,
+            "Workforce": 77,
+            "Community": 75
+        },
+        "global_governance_score": 85,
+        "governance_scores": {
+            "Management": 92,
+            "Shareholders": 56,
+            "CSR Strategy": 93
+        },
+        "overall_score": 81
+    },
+    "Reporte-de-Sustentabilidad-YPF-2023": {
+        "company_pdf": "Reporte-de-Sustentabilidad-YPF-2023.pdf",
+        "company_name": "YPF SA",
+        "global_enviroment_score": 81,
+        "enviroment_scores": {
+            "Emissions": 67,
+            "Resource Use": 98,
+            "Innovation": 75
+        },
+        "global_social_score": 84,
+        "social_scores": {
+            "Human Rights": 91,
+            "Product Responsibility": 87,
+            "Workforce": 90,
+            "Community": 58
+        },
+        "global_governance_score": 84,
+        "governance_scores": {
+            "Management": 96,
+            "Shareholders": 42,
+            "CSR Strategy": 93
+        },
+        "overall_score": 83
+    },
+    "Reporte-de-Sustentabilidad-YPF-2022": {
+        "company_pdf": "Reporte-de-Sustentabilidad-YPF-2022.pdf",
+        "company_name": "YPF SA",
+        "global_enviroment_score": 73,
+        "enviroment_scores": {
+            "Emissions": 60,
+            "Resource Use": 88,
+            "Innovation": 68
+        },
+        "global_social_score": 76,
+        "social_scores": {
+            "Human Rights": 82,
+            "Product Responsibility": 78,
+            "Workforce": 81,
+            "Community": 52
+        },
+        "global_governance_score": 76,
+        "governance_scores": {
+            "Management": 86,
+            "Shareholders": 38,
+            "CSR Strategy": 84
+        },
+        "overall_score": 75
+    },
+    "Reporte-de-Sustentabilidad-YPF-2021": {
+        "company_pdf": "Reporte-de-Sustentabilidad-YPF-2021.pdf",
+        "company_name": "YPF SA",
+        "global_enviroment_score": 65,
+        "enviroment_scores": {
+            "Emissions": 54,
+            "Resource Use": 78,
+            "Innovation": 60
+        },
+        "global_social_score": 67,
+        "social_scores": {
+            "Human Rights": 73,
+            "Product Responsibility": 70,
+            "Workforce": 72,
+            "Community": 46
+        },
+        "global_governance_score": 67,
+        "governance_scores": {
+            "Management": 77,
+            "Shareholders": 34,
+            "CSR Strategy": 74
+        },
+        "overall_score": 66
+    },
+    "TGN_reporte_sustentabilidad_2023": {
+        "company_pdf": "TGN_reporte_sustentabilidad_2023.pdf",
+        "company_name": "Transportadora de Gas del Norte",
+        "global_enviroment_score": 55,
+        "enviroment_scores": {
+            "Emissions": 50,
+            "Resource Use": 60,
+            "Innovation": 55
+        },
+        "global_social_score": 65,
+        "social_scores": {
+            "Human Rights": 70,
+            "Product Responsibility": 60,
+            "Workforce": 65,
+            "Community": 65
+        },
+        "global_governance_score": 75,
+        "governance_scores": {
+            "Management": 80,
+            "Shareholders": 70,
+            "CSR Strategy": 75
+        },
+        "overall_score": 60
+    },
+    "TGN_reporte_sustentabilidad_2022": {
+        "company_pdf": "TGN_reporte_sustentabilidad_2022.pdf",
+        "company_name": "Transportadora de Gas del Norte",
+        "global_enviroment_score": 50,
+        "enviroment_scores": {
+            "Emissions": 45,
+            "Resource Use": 54,
+            "Innovation": 50
+        },
+        "global_social_score": 59,
+        "social_scores": {
+            "Human Rights": 63,
+            "Product Responsibility": 54,
+            "Workforce": 59,
+            "Community": 59
+        },
+        "global_governance_score": 68,
+        "governance_scores": {
+            "Management": 72,
+            "Shareholders": 63,
+            "CSR Strategy": 68
+        },
+        "overall_score": 54
+    },
+    "TGN_reporte_sustentabilidad_2021": {
+        "company_pdf": "TGN_reporte_sustentabilidad_2021.pdf",
+        "company_name": "Transportadora de Gas del Norte",
+        "global_enviroment_score": 44,
+        "enviroment_scores": {
+            "Emissions": 40,
+            "Resource Use": 48,
+            "Innovation": 44
+        },
+        "global_social_score": 52,
+        "social_scores": {
+            "Human Rights": 56,
+            "Product Responsibility": 48,
+            "Workforce": 52,
+            "Community": 52
+        },
+        "global_governance_score": 60,
+        "governance_scores": {
+            "Management": 64,
+            "Shareholders": 56,
+            "CSR Strategy": 60
+        },
+        "overall_score": 48
+    },
+    "TGS_Docs_Reporte-ASG-2023": {
+        "company_pdf": "TGS_Docs_Reporte-ASG-2023.pdf",
+        "company_name": "TGS NOPEC Geophysical Company ASA",
+        "global_enviroment_score": 60,
+        "enviroment_scores": {
+            "Emissions": 62,
+            "Resource Use": 69,
+            "Innovation": 32
+        },
+        "global_social_score": 86,
+        "social_scores": {
+            "Human Rights": 91,
+            "Product Responsibility": 89,
+            "Workforce": 83,
+            "Community": 78
+        },
+        "global_governance_score": 88,
+        "governance_scores": {
+            "Management": 88,
+            "Shareholders": 94,
+            "CSR Strategy": 79
+        },
+        "overall_score": 78
+    },
+    "TGS_Docs_Reporte-ASG-2022": {
+        "company_pdf": "TGS_Docs_Reporte-ASG-2022.pdf",
+        "company_name": "TGS NOPEC Geophysical Company ASA",
+        "global_enviroment_score": 54,
+        "enviroment_scores": {
+            "Emissions": 56,
+            "Resource Use": 62,
+            "Innovation": 29
+        },
+        "global_social_score": 77,
+        "social_scores": {
+            "Human Rights": 82,
+            "Product Responsibility": 80,
+            "Workforce": 75,
+            "Community": 70
+        },
+        "global_governance_score": 79,
+        "governance_scores": {
+            "Management": 79,
+            "Shareholders": 85,
+            "CSR Strategy": 71
+        },
+        "overall_score": 70
+    },
+    "TGS_Docs_Reporte-ASG-2021": {
+        "company_pdf": "TGS_Docs_Reporte-ASG-2021.pdf",
+        "company_name": "TGS NOPEC Geophysical Company ASA",
+        "global_enviroment_score": 48,
+        "enviroment_scores": {
+            "Emissions": 50,
+            "Resource Use": 55,
+            "Innovation": 26
+        },
+        "global_social_score": 69,
+        "social_scores": {
+            "Human Rights": 73,
+            "Product Responsibility": 71,
+            "Workforce": 66,
+            "Community": 62
+        },
+        "global_governance_score": 70,
+        "governance_scores": {
+            "Management": 70,
+            "Shareholders": 75,
+            "CSR Strategy": 63
+        },
+        "overall_score": 62
+    },
+    "Telecom Argentina - Memoria Anual Integrada 2024": {
+        "company_pdf": "Telecom Argentina - Memoria Anual Integrada 2024.pdf",
+        "company_name": "Telecom Argentina SA",
+        "global_enviroment_score": 59,
+        "enviroment_scores": {
+            "Emissions": 39,
+            "Resource Use": 79,
+            "Innovation": 60
+        },
+        "global_social_score": 75,
+        "social_scores": {
+            "Human Rights": 70,
+            "Product Responsibility": 99,
+            "Workforce": 63,
+            "Community": 51
+        },
+        "global_governance_score": 58,
+        "governance_scores": {
+            "Management": 42,
+            "Shareholders": 85,
+            "CSR Strategy": 98
+        },
+        "overall_score": 67
+    },
+    "Telecom Argentina - MemoriaAnualIntegrada2023": {
+        "company_pdf": "Telecom Argentina - MemoriaAnualIntegrada2023.pdf",
+        "company_name": "Telecom Argentina SA",
+        "global_enviroment_score": 56,
+        "enviroment_scores": {
+            "Emissions": 37,
+            "Resource Use": 75,
+            "Innovation": 57
+        },
+        "global_social_score": 71,
+        "social_scores": {
+            "Human Rights": 67,
+            "Product Responsibility": 94,
+            "Workforce": 60,
+            "Community": 49
+        },
+        "global_governance_score": 55,
+        "governance_scores": {
+            "Management": 40,
+            "Shareholders": 81,
+            "CSR Strategy": 93
+        },
+        "overall_score": 64
+    },
+    "Telecom Argentina - Infografia_Memoria Anual Integrada 2022": {
+        "company_pdf": "Telecom Argentina - Infografia_Memoria Anual Integrada 2022.pdf",
+        "company_name": "Telecom Argentina SA",
+        "global_enviroment_score": 50,
+        "enviroment_scores": {
+            "Emissions": 33,
+            "Resource Use": 68,
+            "Innovation": 51
+        },
+        "global_social_score": 64,
+        "social_scores": {
+            "Human Rights": 60,
+            "Product Responsibility": 85,
+            "Workforce": 54,
+            "Community": 44
+        },
+        "global_governance_score": 50,
+        "governance_scores": {
+            "Management": 36,
+            "Shareholders": 73,
+            "CSR Strategy": 84
+        },
+        "overall_score": 58
+    },
+    "Telecom Argentina - Informe de Indicadores ESG 2022": {
+        "company_pdf": "Telecom Argentina - Informe de Indicadores ESG 2022.pdf",
+        "company_name": "Telecom Argentina SA",
+        "global_enviroment_score": 50,
+        "enviroment_scores": {
+            "Emissions": 33,
+            "Resource Use": 68,
+            "Innovation": 51
+        },
+        "global_social_score": 64,
+        "social_scores": {
+            "Human Rights": 60,
+            "Product Responsibility": 85,
+            "Workforce": 54,
+            "Community": 44
+        },
+        "global_governance_score": 50,
+        "governance_scores": {
+            "Management": 36,
+            "Shareholders": 73,
+            "CSR Strategy": 84
+        },
+        "overall_score": 58
+    },
+    "Telecom Argentina - Memoria Anual Integrada 2022": {
+        "company_pdf": "Telecom Argentina - Memoria Anual Integrada 2022.pdf",
+        "company_name": "Telecom Argentina SA",
+        "global_enviroment_score": 50,
+        "enviroment_scores": {
+            "Emissions": 33,
+            "Resource Use": 68,
+            "Innovation": 51
+        },
+        "global_social_score": 64,
+        "social_scores": {
+            "Human Rights": 60,
+            "Product Responsibility": 85,
+            "Workforce": 54,
+            "Community": 44
+        },
+        "global_governance_score": 50,
+        "governance_scores": {
+            "Management": 36,
+            "Shareholders": 73,
+            "CSR Strategy": 84
+        },
+        "overall_score": 58
+    },
+    "Ternium - reporte-de-sustentabilidad-2023": {
+        "company_pdf": "Ternium - reporte-de-sustentabilidad-2023.pdf",
+        "company_name": "Ternium SA",
+        "global_enviroment_score": 67,
+        "enviroment_scores": {
+            "Emissions": 81,
+            "Resource Use": 58,
+            "Innovation": 50
+        },
+        "global_social_score": 61,
+        "social_scores": {
+            "Human Rights": 40,
+            "Product Responsibility": 60,
+            "Workforce": 77,
+            "Community": 81
+        },
+        "global_governance_score": 12,
+        "governance_scores": {
+            "Management": 16,
+            "Shareholders": 1,
+            "CSR Strategy": 12
+        },
+        "overall_score": 51
+    },
+    "Transener_Reporte_2023": {
+        "company_pdf": "Transener_Reporte_2023.pdf",
+        "company_name": "Compania de Transporte de Energia Electrica en Alta Tension Transener SA",
+        "global_enviroment_score": 30,
+        "enviroment_scores": {
+            "Emissions": 0,
+            "Resource Use": 4,
+            "Innovation": 97
+        },
+        "global_social_score": 19,
+        "social_scores": {
+            "Human Rights": 0,
+            "Product Responsibility": 48,
+            "Workforce": 10,
+            "Community": 31
+        },
+        "global_governance_score": 49,
+        "governance_scores": {
+            "Management": 56,
+            "Shareholders": 37,
+            "CSR Strategy": 34
+        },
+        "overall_score": 31
+    },
+    "reporte Banco Hipotecario 2024": {
+        "company_pdf": "reporte Banco Hipotecario 2024.pdf",
+        "company_name": "Banco Hipotecario SA",
+        "global_enviroment_score": 67,
+        "enviroment_scores": {
+            "Emissions": 29,
+            "Resource Use": 63,
+            "Innovation": 53
+        },
+        "global_social_score": 82,
+        "social_scores": {
+            "Human Rights": 50,
+            "Product Responsibility": 100,
+            "Workforce": 85,
+            "Community": 87
+        },
+        "global_governance_score": 46,
+        "governance_scores": {
+            "Management": 44,
+            "Shareholders": 54,
+            "CSR Strategy": 49
+        },
+        "overall_score": 65
+    },
+    "reporte Banco Hipotecario 2023": {
+        "company_pdf": "reporte Banco Hipotecario 2023.pdf",
+        "company_name": "Banco Hipotecario SA",
+        "global_enviroment_score": 64,
+        "enviroment_scores": {
+            "Emissions": 28,
+            "Resource Use": 60,
+            "Innovation": 50
+        },
+        "global_social_score": 78,
+        "social_scores": {
+            "Human Rights": 48,
+            "Product Responsibility": 96,
+            "Workforce": 81,
+            "Community": 83
+        },
+        "global_governance_score": 44,
+        "governance_scores": {
+            "Management": 42,
+            "Shareholders": 51,
+            "CSR Strategy": 47
+        },
+        "overall_score": 62
+    },
+    "reporte Banco Hipotecario 2022": {
+        "company_pdf": "reporte Banco Hipotecario 2022.pdf",
+        "company_name": "Banco Hipotecario SA",
+        "global_enviroment_score": 58,
+        "enviroment_scores": {
+            "Emissions": 25,
+            "Resource Use": 54,
+            "Innovation": 45
+        },
+        "global_social_score": 70,
+        "social_scores": {
+            "Human Rights": 43,
+            "Product Responsibility": 86,
+            "Workforce": 73,
+            "Community": 75
+        },
+        "global_governance_score": 40,
+        "governance_scores": {
+            "Management": 38,
+            "Shareholders": 46,
+            "CSR Strategy": 42
+        },
+        "overall_score": 56
+    },
+    "reporte Banco Hipotecario 2021": {
+        "company_pdf": "reporte Banco Hipotecario 2021.pdf",
+        "company_name": "Banco Hipotecario SA",
+        "global_enviroment_score": 51,
+        "enviroment_scores": {
+            "Emissions": 22,
+            "Resource Use": 48,
+            "Innovation": 40
+        },
+        "global_social_score": 62,
+        "social_scores": {
+            "Human Rights": 38,
+            "Product Responsibility": 77,
+            "Workforce": 65,
+            "Community": 66
+        },
+        "global_governance_score": 35,
+        "governance_scores": {
+            "Management": 34,
+            "Shareholders": 41,
+            "CSR Strategy": 38
+        },
+        "overall_score": 50
+    },
+    "reporte Banco Patagonia 2022": {
+        "company_pdf": "reporte Banco Patagonia 2022.pdf",
+        "company_name": "Banco Patagonia",
+        "global_enviroment_score": 60,
+        "enviroment_scores": {
+            "Emissions": 25,
+            "Resource Use": 55,
+            "Innovation": 45
+        },
+        "global_social_score": 70,
+        "social_scores": {
+            "Human Rights": 50,
+            "Product Responsibility": 80,
+            "Workforce": 75,
+            "Community": 70
+        },
+        "global_governance_score": 50,
+        "governance_scores": {
+            "Management": 55,
+            "Shareholders": 45,
+            "CSR Strategy": 50
+        },
+        "overall_score": 60
+    },
+    "reporte Banco Patagonia 2021": {
+        "company_pdf": "reporte Banco Patagonia 2021.pdf",
+        "company_name": "Banco Patagonia",
+        "global_enviroment_score": 54,
+        "enviroment_scores": {
+            "Emissions": 23,
+            "Resource Use": 50,
+            "Innovation": 41
+        },
+        "global_social_score": 63,
+        "social_scores": {
+            "Human Rights": 45,
+            "Product Responsibility": 72,
+            "Workforce": 68,
+            "Community": 63
+        },
+        "global_governance_score": 45,
+        "governance_scores": {
+            "Management": 50,
+            "Shareholders": 41,
+            "CSR Strategy": 45
+        },
+        "overall_score": 54
+    },
+    "reporte Banco Patagonia 2020": {
+        "company_pdf": "reporte Banco Patagonia 2020.pdf",
+        "company_name": "Banco Patagonia",
+        "global_enviroment_score": 48,
+        "enviroment_scores": {
+            "Emissions": 20,
+            "Resource Use": 44,
+            "Innovation": 36
+        },
+        "global_social_score": 56,
+        "social_scores": {
+            "Human Rights": 40,
+            "Product Responsibility": 64,
+            "Workforce": 60,
+            "Community": 56
+        },
+        "global_governance_score": 40,
+        "governance_scores": {
+            "Management": 44,
+            "Shareholders": 36,
+            "CSR Strategy": 40
+        },
+        "overall_score": 48
+    }
+}

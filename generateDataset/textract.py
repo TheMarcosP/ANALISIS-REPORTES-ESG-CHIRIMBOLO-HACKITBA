@@ -25,7 +25,7 @@ def upload_to_s3(pdf_file_path, bucket_name, s3_key):
         s3.upload_fileobj(data, bucket_name, s3_key)
 
 
-def extract_text_from_pdf(pdf_file_path):
+def extractTextFromPdf(pdf_file_path):
     """
     Extracts text from a PDF file using AWS Textract.
     This function uploads the specified PDF file to an S3 bucket, initiates a text detection job
@@ -101,15 +101,15 @@ def extract_text_from_pdf(pdf_file_path):
 
 if __name__ == "__main__":
     # Path to your PDF file
-    name = "testPdf"
-    pdf_file_path = os.path.join("data", "reports", name + '.pdf')  # Replace with your PDF file path
+    name = "resumen_guia_divulgacion_asg"
+    pdf_file_path = os.path.join("data", "resumen_guia_divulgacion_asg.pdf")  # Replace with your PDF file path
 
     # Extract text from the PDF
-    extracted_text = extract_text_from_pdf(pdf_file_path)
+    extracted_text = extractTextFromPdf(pdf_file_path)
 
     # Print the extracted text
     print(extracted_text)
 
     # Save to file
-    with open("outputTextract.txt", "w", encoding="utf-8") as f:
+    with open("resumen_guia_divulgacion_asg.txt", "w", encoding="utf-8") as f:
         f.write(extracted_text)

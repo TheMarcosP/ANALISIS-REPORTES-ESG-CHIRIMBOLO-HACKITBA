@@ -1,0 +1,94 @@
+{
+    "resultados": [
+        {
+            "valor": "Total Pasivo de la Sociedad: $95.8 millones",
+            "categoria": "Gobernanza",
+            "descripcion": "Total del pasivo al cierre del ejercicio, aumentado respecto al a\u00f1o anterior.",
+            "keywords": [
+                "pasivo total",
+                "gobernanza",
+                "informaci\u00f3n financiera"
+            ]
+        },
+        {
+            "valor": "Participaci\u00f3n sobre el tr\u00e1nsito: 76.1%",
+            "categoria": "Social",
+            "descripcion": "Porcentaje del tr\u00e1nsito que utiliza la modalidad de cobro en autopistas.",
+            "keywords": [
+                "tr\u00e1nsito",
+                "modalidad de cobro",
+                "din\u00e1mica de tr\u00e1fico"
+            ]
+        },
+        {
+            "valor": "Emisiones de CO2 reducidas: 7,588 toneladas",
+            "categoria": "Medioambiente",
+            "descripcion": "Reducci\u00f3n de emisiones gracias al uso de energ\u00eda renovable.",
+            "keywords": [
+                "reducci\u00f3n CO2",
+                "energ\u00eda renovable",
+                "sostenibilidad"
+            ]
+        },
+        {
+            "valor": "Consumo de energ\u00eda el\u00e9ctrica de fuentes renovables: 100%",
+            "categoria": "Medioambiente",
+            "descripcion": "La compa\u00f1\u00eda utiliza 100% de energ\u00eda renovable para sus operaciones.",
+            "keywords": [
+                "energ\u00eda renovable",
+                "sostenibilidad",
+                "eficiencia energ\u00e9tica"
+            ]
+        },
+        {
+            "valor": "Ingresos por peaje: $36.7 millones",
+            "categoria": "Gobernanza",
+            "descripcion": "Ingresos generados por el cobro de peajes, antes de impuestos.",
+            "keywords": [
+                "ingresos por peaje",
+                "finanzas",
+                "gobernanza"
+            ]
+        },
+        {
+            "valor": "Tr\u00e1nsito pagante incrementado en: 6.1%",
+            "categoria": "Social",
+            "descripcion": "Incremento del tr\u00e1fico pagante en comparaci\u00f3n con el a\u00f1o anterior.",
+            "keywords": [
+                "tr\u00e1nsito",
+                "crecimiento",
+                "indicadores sociales"
+            ]
+        },
+        {
+            "valor": "Campa\u00f1as de Seguridad Vial en operaci\u00f3n: m\u00faltiples iniciativas",
+            "categoria": "Social",
+            "descripcion": "Varias campa\u00f1as en curso para mejorar la seguridad vial y educaci\u00f3n de conductores.",
+            "keywords": [
+                "seguridad vial",
+                "educaci\u00f3n",
+                "comunidad"
+            ]
+        },
+        {
+            "valor": "Pasivo neto por impuesto diferido: Aumento de $30.2 millones",
+            "categoria": "Gobernanza",
+            "descripcion": "Aumento debido a la variaci\u00f3n del tipo de cambio y la concesi\u00f3n.",
+            "keywords": [
+                "pasivo neto",
+                "impuestos",
+                "financieras"
+            ]
+        },
+        {
+            "valor": "Porcentaje de ingresos por alquiler: $5.3 millones",
+            "categoria": "Gobernanza",
+            "descripcion": "Ingresos generados por alquileres de \u00e1reas de servicios.",
+            "keywords": [
+                "ingresos alquiler",
+                "finanzas",
+                "informaci\u00f3n econ\u00f3mica"
+            ]
+        }
+    ]
+}

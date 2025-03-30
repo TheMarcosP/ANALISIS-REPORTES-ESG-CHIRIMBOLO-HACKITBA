@@ -1,0 +1,30 @@
+### Resumen del Informe ESG de Autopistas del Sol
+
+**Hallazgos Clave:**
+- **Total Pasivo:** $95.8 millones, lo que indica un aumento respecto al año anterior.
+- **Emisiones de CO2:** Se redujeron en 7,588 toneladas debido al uso de energía renovable.
+- **Transito Pagante:** Incremento del 6.1% en el tráfico pagante en comparación con el año anterior.
+- **Energía Renovable:** Utilización del 100% de fuentes de energía renovables.
+- **Ingresos Generados:** $36.7 millones por cobro de peajes, mostrado un crecimiento positivo.
+
+**Evaluación de Cumplimiento:**
+El informe aborda varios componentes ESG, pero carece de profundidad en áreas clave, especialmente en la identificación de grupos de interés y el enfoque de doble materialidad. Los mecanismos de gobernanza están bien descritos, aunque se sugiere proporcionar mayor transparencia sobre las iniciativas específicas de sostenibilidad y compromiso.
+
+**Interpretación de los Puntajes ESG:**
+- **Global Environmental Score:** 30 (Emisiones: 25, Uso de Recursos: 35, Innovación: 30)
+- **Global Social Score:** 40 (Derechos Humanos: 45, Responsabilidad del Producto: 35, Fuerza Laboral: 50, Comunidad: 30)
+- **Global Governance Score:** 50 (Gestión: 55, Accionistas: 40, Estrategia RSE: 55)
+- **Puntaje General:** 40, reflejando un desempeño moderado con oportunidades de mejora.
+
+**Perspectivas de Similitud de Texto:**
+El análisis de similitud mostró que las secciones del informe tienen una adherencia parcial a las leyes argentinas relacionadas con ESG. Las áreas con mayor alineación incluyen la gestión de recursos y el compromiso social, mientras que se observaron desviaciones en la identificación de grupos de interés y en el enfoque de materialidad.
+
+**Mejoras Potenciales:**
+1. **Identificación de Grupos de Interés:** Incluir un análisis más exhaustivo de todos los actores relevantes como trabajadores y consumidores.
+2. **Enfoque de Doble Materialidad:** Articular claramente cómo los impactos financieros y sociales se interrelacionan.
+3. **Metas Claras:** Establecer objetivos específicos a corto, mediano y largo plazo para estrategias ESG.
+4. **Verificación Externa:** Implementar procesos de verificación externa para aumentar la credibilidad del informe.
+5. **Narrativa Más Robusta:** Aumentar la profundidad de las acciones llevadas a cabo en el período de reporte.
+
+**Conclusión:**
+El informe de Autopistas del Sol presenta una base en la divulgación de información ESG, pero requerirá mejoras significativas para alinearse plenamente con las mejores prácticas y aumentar la confianza de los stakeholders.

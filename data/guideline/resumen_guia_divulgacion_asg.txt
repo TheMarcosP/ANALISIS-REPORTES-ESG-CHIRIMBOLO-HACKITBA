@@ -1,0 +1,167 @@
+Guía para el reporte divulgación voluntaria de información ambiental, social y de gobierno (ASG)
+
+PREPARADO POR LA CNV CON EL APOYO DEL BID CNV Comisión Nacional de Valores Aclaración preliminar. El presente documento es un extracto de la "Guía para el reporte y divulgación voluntaria de información ambiental,
+social y de gobierno (ASG)" (en adelante, "Guía"), elaborada por Nicolás Jerkovic, consultor del Banco Interamericano de Desarrollo.
+
+
+CNV: Comisión Nacional de Valores Acrónimos
+
+1. ¿Qué es la información ASG y quienes la están  demandando?
+
+La información ASG abarca tres factores: el ambiental, el social y la gobernanza. El primero de ellos,
+refiere a cualquier aspecto de la actividad de una empresa que esté relacionado con la naturaleza.
+Por ejemplo, la gestión de recursos naturales, la prevención de la contaminación, la adaptación y
+mitigación al cambio climático, entre otros. Por su parte, el factor social, en cambio, refiere a cualquier
+aspecto de la actividad de una empresa que esté relacionado con el desarrollo humano y social.
+Por ejemplo, las políticas que lleva adelante para fomentar la diversidad e inclusión en la empresa
+así como la igualdad de oportunidades; la relación y políticas de la empresa con sus trabajadores,
+grupos de interés, comunidad y autoridades. Por último, el factor gobierno se refiere a considerar
+cómo la compañía gestiona su gobierno corporativo, y en particular la inclusión de la perspectiva
+ambiental y social en los mecanismos de gobernanza. Algunos temas que podrían ser tratados
+dentro del factor gobernanza, son por ejemplo: mecanismos de relacionamiento del directorio con
+sus accionistas y grupos de interés, rendición de cuentas, la equidad de género, la independencia
+de los/as directores/as y su remuneración, la estructura de la organización, su estrategia fiscal
+y de sostenibilidad, mecanismos de transparencia, y los programas anticorrupción, entre otros.
+En relación a la diversidad de genero, se destaca la importancia de la composición de Directorios
+diversos y la equidad en la remuneración como buenas prácticas de Gobierno Corporativo.
+En los últimos años se han incrementado los esfuerzos a nivel mundial para promover el desarrollo
+de economías sostenibles que contemplen el cambio climático, tanto dentro del sector público
+como del privado (IOSCO, 2020). En el contexto planteado, existe una demanda creciente tanto
+por parte de los inversores, como de la sociedad en su conjunto, respecto a querer conocer cómo
+las empresas están gestionando sus impactos ASG. En este sentido, la información empresarial
+sobre su exposición a los riesgos y oportunidades ASG, y sus estrategias para abordarlos, son cada
+vez más importantes para las decisiones de inversión, ya que en ciertas circunstancias pueden
+representar serias amenazas a la viabilidad del negocio en forma sostenida (Impact Management
+Project et al, 2020). Asimismo, a partir de los riesgos financieros derivados del cambio climático,
+el entorno de negocios y de inversores no sólo está demandando información ASG por parte de las
+empresas, sino también información específica sobre cómo están incluyendo en sus estrategias
+de negocio las implicancias del cambio climático. Los inversores tienen expectativas de que se
+entreguen reportes financieros alineados al Acuerdo de París, es decir, rendiciones de cuentas que
+reflejen adecuadamente el impacto que pudiera tener en los activos, pasivos, ganancias y pérdidas,
+el objetivo de llegar a las cero emisiones netas de dióxido de carbono para el año 2050 (IIGCC, 2020).
+A partir de la divulgación de información empresarial, los inversores quieren entender: cómo los
+asuntos ASG afectan a la creación de valor a largo plazo de la compañía; la naturaleza de los
+riesgos estratégicos y financieros; y la forma en que la empresa pretende gestionarlos. Asimismo,
+exigen a las compañías que informen sobre los impactos (actuales o potenciales) en el entorno y la
+sociedad que resultan de los factores ASG propios de las actividades del negocio. En consecuencia,
+la transparencia sobre cómo una empresa gestiona los riesgos y oportunidades asociados debe
+formar parte de su propuesta de valor (IOSCO, 2019).
+
+2.¿Qué beneficios tiene para las empresas divulgar
+información ASG?
+Son varios y diversos los beneficios de contemplar los factores ASG por parte de las empresas. Algunos ejemplos son: permite consolidar y acceder a nuevos mercados, atraer inversiones, fomenta una mayor innovación, el ahorro de costos, la diferenciación de marca, el
+pensamiento a largo plazo, el compromiso de los empleados y la fidelización de los clientes,
+entre tantos otros (GRI, 2021).
+3.Contenido que debe tener un reporte ASG. Concepto de
+“Materialidad”.
+Para definir el contenido que debe tener un reporte ASG, es necesario que la empresa identifique y comprenda la audiencia a la que se dirigirá y a partir de esto deberá definir los temas
+materiales e indicadores de desempeño sobre los cuales divulgará información.
+3.1. Identificar y comprender a la audiencia
+Al presentar información ASG la empresa debe considerar que, entre sus grupos de interés,
+pueden existir diferentes necesidades de información. Es por esto que la identificación de
+aquellos es clave para poder comprender el contenido que debe tener un reporte ASG. Por
+ejemplo: algunos grupos de interés podrán estar interesados en cómo los riesgos climáticos afectan a la empresa en el largo plazo, mientras que a otros podrá interesarles el entendimiento de cómo es la gestión integral ASG de la empresa.
+Estas consideraciones son importantes desde el inicio del proceso de elaboración de informes, ya que ayudan a definir el contenido, alcance y formato de los mismos, así como
+los esfuerzos de involucramiento para lograr los objetivos que la empresa se propone. Se
+recomienda una consideración amplia de grupos de interés a la hora de identificar la audiencia a la que la empresa dará respuesta a través de los reportes ASG. Ejemplos de grupos
+de interés que podrían ser tenidos en cuenta son: inversores, trabajadores, consumidores,
+sociedad civil, gobiernos, clientes, calificadoras de riesgos, reguladores, comunidades, entre
+otros.
+3.2. Materialidad – Identificación de temas materiales
+La comprensión de la relevancia y materialidad de la información para los grupos de interés
+es un aspecto clave para determinar el alcance y contenido de los reportes ASG. El concepto
+de materialidad proviene de la contabilidad financiera. De acuerdo a las Normas Internacionales de Información Financiera (NIIF), “la información es material si su omisión, inexactitud o
+u ocultamiento puede influir razonablemente en las decisiones que toman los usuarios
+primarios de los estados financieros de propósito general, con base en estos, los cuales
+proporcionan información financiera sobre una entidad informante específica”.
+Existen dos perspectivas de materialidad que las empresas pueden utilizar a la hora de
+definir la información ASG relevante, y sobre los cuales deben informar: la materialidad
+financiera y la materialidad de impacto. La primera, adoptada actualmente por la ISSB de la
+Fundación IFRS, refiere a aquellos factores ASG que podrían tener un impacto significativo
+(positivo o negativo) en el modelo de negocio de la compañía y en los traccionadores de
+creación de valor. Esta materialidad suele relacionarse con lo que a los inversores financieros les interesa/necesitan saber para la toma de decisiones económicas (crecimiento de
+las ventas, rentabilidad, flujo de fondos y riesgo financiero, etc.). En cambio, la materialidad
+de impacto se refiere a aquellos aspectos del negocio y/o la empresa que tienen impacto en
+las personas, la sociedad y el ambiente. Esta perspectiva se enfoca en los temas materiales
+vinculados a la sostenibilidad y requisitos de divulgación asociados, a efectos de identificar
+la relevancia de las contribuciones negativas y positivas de una empresa al desarrollo sostenible. Por ello, la información resultante bajo esta última perspectiva suele ser la de mayor
+interés para los ciudadanos, los consumidores, los empleados, los socios comerciales, las
+comunidades y las organizaciones de la sociedad civil (Impact Management Project et al,
+2020). A partir de las dos definiciones anteriores, surge el tercer enfoque de materialidad: la
+doble materialidad, que es el que están adoptando la Unión Europea y el GRI, y consiste en
+adoptar al mismo tiempo las perspectivas de materialidad financiera y de impacto a la hora
+de determinar los factores ASG sobre los cuales informar.
+
+En la medida que no haya una definición regulatoria, la elección de la perspectiva de materialidad que debe adoptar la empresa, debería estar influenciada por el entendimiento de la
+audiencia a quien estará dirigiéndose la empresa con su reporte ASG. En la guía completa,
+se menciona listado de temas materiales que podría ser tenido en cuenta por la empresa
+en su análisis.
+
+Las recomendaciones que se presentan en la Guía tienen por objetivo cubrir las necesidades de información ASG desde la perspectiva de “materialidad financiera”. No obstante, la
+CNV reconoce la importancia de la “materialidad de impacto” y la “doble materialidad”, y
+anima a las empresas a que consideren la adopción de la “doble materialidad”.
+3.3 Indicadores de desempeño
+Al evaluar los temas materiales, la empresa debe definir indicadores de desempeño que le
+permitan analizar la magnitud de sus impactos. Se recomienda que se utilicen indicadores
+ampliamente aceptados y desarrollados a través de un proceso nacional o internacional
+creíble. En este sentido, los Estándares GRI, y los Estándares SASB de la Fundación IFRS
+disponen de indicadores mundialmente reconocidos. También el CDP, el ISSB y el TCFD
+disponen de indicadores específicos relativos a la divulgación de información sobre las
+implicancias del cambio climático en la empresa, los cuales podrían ser tenidos en cuenta.
+Sin embargo, es posible que para ciertos temas relevantes y/o materiales no existan indicadores internacionalmente definidos por estas normas e iniciativas, en cuyos casos se
+recomienda que la empresa evalúe el uso de indicadores reconocidos por la industria a la
+que pertenece y, de ser necesario, indicadores propios.
+Al reportar los indicadores de desempeño asociados a los temas materiales ASG, los grupos
+de interés, y en particular los inversores, apreciarán la información que describa el contexto
+apropiado en relación con los temas materiales, incluyendo información sobre:
+• Explicación de los motivos por los cuales el tema es material.
+• Estrategia de abordaje del tema material.
+• Riesgos y oportunidades para el negocio.
+• Objetivos de corto, mediano y largo plazo.
+• Mecanismos de gobernanza asociados.
+• Compromisos asumidos e iniciativas a las que está adherida la empresa.
+• Acciones llevadas adelante en el período.
+• Metodologías para la recopilación de datos y motivo de su elección.
+
+4. ¿Cómo armar un reporte ASG?
+A continuación, se sugieren cinco etapas metodológicas para que la empresa
+prepare y emita su reporte ASG, los cuales pueden ser modificados en caso de resultar conveniente:
+Paso 1: Conformar el equipo de trabajo. La empresa debe definir un líder de
+proyecto, el cual debe disponer de mecanismos de comunicación y reporte a la
+gerencia que tenga bajo su responsabilidad la supervisión y monitoreo del proceso de elaboración de reportes ASG. Bajo la coordinación del líder de equipo,
+es recomendable que se conforme una comisión de trabajo integrada por representantes de las diferentes áreas, que deberán proporcionar información para la
+elaboración del reporte ASG. 
+
+Paso 2: Definir la audiencia. La empresa debe identificar y
+comprender quiénes son los grupos de interés que están
+exigiendo información, y a quiénes estará dirigido el reporte
+ASG. Esto resulta fundamental para entender la calidad y can
+-
+tidad de información que se necesita preparar y comprender
+la necesidad de incrementar la confiabilidad de la informa
+-
+ción ASG con procesos de verificación externa.
+Paso 3: Determinar los temas materiales. La empresa
+debe identificar los temas materiales ASG sobre los cuales
+recopilará información. Como parte del análisis, la empresa
+debe seleccionar indicadores de desempeño que permitan
+entender la magnitud en que las actividades empresariales
+se traducen en impactos ASG y, de esta manera, argumentar y comprender mejor los temas materiales. Es recomendable que estos indicadores de desempeño sean los sugeridos
+por marcos internacionales, como por ejemplo: Estándares
+Global Reporting Inititative y/o Estándares Sustainability
+Accounting Standard Board de la Fundación IFRS
+Paso 4: Recopilar información. Este proceso debería aspirar
+a cubrir los siguientes aspectos para cada uno de los temas
+materiales: información de contexto, información corporativa
+y del sistema de gestión, metas y objetivos a corto-mediano-largo plazo, información sobre el desempeño en el período del reporte e información cuantitativa. La recopilación
+de esta información es recomendable que se ajuste a los
+requerimientos de normas internacionales como, por ejemplo: Estándares Global Reporting Inititative y/o Estándares
+Sustainability Accounting Standard Board de la Fundación
+IFRS.
+Paso 5: Elaborar el reporte y comunicar. La empresa está en
+condiciones de armar su reporte ASG y someterlo a los procesos de revisión interna, y a los procesos de verificación externa en el caso de haberlo definido necesario de acuerdo al
+Paso 2. Luego de esto, la empresa estaría en condiciones de
+iniciar el proceso de comunicación a sus grupos de interés.
+Será de gran valor la retroalimentación obtenida a partir de tal
+proceso, ya que permitirá identificar futuras oportunidades de
+mejora en la divulgación de información ASG.

@@ -1,0 +1,36 @@
+### Resumen del Informe ESG de Telecom Argentina
+
+#### Hallazgos Clave
+- **Inversión Social**: Telecom Argentina ha realizado un aporte social de **$120.071 millones** en infraestructura.
+- **Cobertura de Clientes**: La empresa cuenta con **30 millones de clientes**, brindando servicios de telecomunicaciones.
+- **Diversidad de Género**: El **21%** de los puestos de liderazgo están ocupados por mujeres.
+- **Sostenibilidad**: **$95 millones** han sido invertidos en iniciativas de sustentabilidad, logrando un **3% de reducción** en el consumo energético.
+
+#### Evaluación de Cumplimiento
+El informe presenta deficiencias significativas en relación a las pautas de divulgación ASG recomendadas por la CNV:
+1. **Identificación de la Audiencia**: Falta de claridad sobre los grupos de interés considerados.
+2. **Materialidad**: Insuficiente identificación de temas materiales desde perspectivas financiera e impacto.
+3. **Indicadores de Desempeño**: No se utilizan indicadores reconocidos ni se explica su metodología.
+4. **Estrategias y Metas**: Las estrategias son poco específicas y carecen de metas claras.
+5. **Mecanismos de Gobernanza**: No se detallan adecuadamente.
+6. **Acciones Llevaudas**: Descripción insuficiente de acciones en relación con los temas materiales.
+7. **Verificación Externa**: No se menciona si el informe ha sido verificado externamente.
+
+#### Interpretación de los Puntajes ESG
+- **Puntaje Ambiente**: **50** (Emisiones: 33, Uso de Recursos: 68, Innovación: 51)
+- **Puntaje Social**: **64** (Derechos Humanos: 60, Responsabilidad del Producto: 85, Fuerza Laboral: 54, Comunidad: 44)
+- **Puntaje Gobernanza**: **50** (Gestión: 36, Accionistas: 73, Estrategia de RSE: 84)
+- **Puntaje General**: **58**.
+
+#### Perspectivas de Similitud de Texto
+La comparación con leyes argentinas revela puntajes bajos en la alineación con regulaciones relevantes, con destacadas áreas de cumplimiento en iniciativas de energía renovable y sostenibilidad (Ley 27.424, Ley 26.190, etc.), pero necesita mejorar en temas de gobernanza y responsabilidad social.
+
+#### Mejoras Potenciales
+- Clarificar quiénes son los grupos de interés.
+- Adoptar un marco de doble materialidad en la identificación de temas.
+- Incluir indicadores ASG estandarizados y explicar su selección.
+- Definir acciones y metas específicas con plazos claros.
+- Detallar los mecanismos de gobernanza.
+- Considerar una verificación externa para aumentar la credibilidad del informe.
+
+Este resumen tiene como fin facilitar la comprensión rápida del desempeño y el cumplimiento ESG de Telecom Argentina, señalando áreas de mejora para fortalecer su responsabilidad social y su alineación con las normativas vigentes.

@@ -1,0 +1,104 @@
+{
+    "resultados": [
+        {
+            "valor": "Inversión social en millones de US$",
+            "categoria": "Social",
+            "descripcion": "La inversión social de Pampa aumentó un 19,4% en 2022, alcanzando 2,6 millones de US$ comparado con 2,2 millones de US$ en 2021.",
+            "keywords": [
+                "inversión social",
+                "2022",
+                "Pampa"
+            ]
+        },
+        {
+            "valor": "Emisiones GEI, alcance 1 y 2, en tCO. equivalente",
+            "categoria": "Medioambiente",
+            "descripcion": "Las emisiones de gases de efecto invernadero (GEI) alcanzaron 7,809,893 tCOe en 2022, con un aumento del 1,8% respecto a 2021.",
+            "keywords": [
+                "emisiones",
+                "GEI",
+                "2022"
+            ]
+        },
+        {
+            "valor": "Intensidad GEI de generación eléctrica, tCO,/MWh",
+            "categoria": "Medioambiente",
+            "descripcion": "La intensidad de GEI de generación eléctrica se redujo a 0,36 tCOe/MWh, disminuyendo un 3,3% respecto al año anterior.",
+            "keywords": [
+                "intensidad GEI",
+                "generación eléctrica",
+                "2022"
+            ]
+        },
+        {
+            "valor": "Consumo energético, en GJ",
+            "categoria": "Medioambiente",
+            "descripcion": "El consumo energético total alcanzó 134,992,824 GJ, un aumento del 1,1% respecto al año anterior.",
+            "keywords": [
+                "consumo energético",
+                "2022"
+            ]
+        },
+        {
+            "valor": "Consumo renovable, % del total de consumo eléctrico",
+            "categoria": "Medioambiente",
+            "descripcion": "El consumo de energía renovable alcanzó el 3,4% del total de consumo eléctrico, un aumento significativo del 124,2% en 2022.",
+            "keywords": [
+                "consumo renovable",
+                "2022",
+                "energía eléctrica"
+            ]
+        },
+        {
+            "valor": "Compras a proveedores, en millones de US$",
+            "categoria": "Social",
+            "descripcion": "Las compras a proveedores alcanzaron 804 millones de US$, un aumento del 56,7% respecto a 2021.",
+            "keywords": [
+                "compras",
+                "proveedores",
+                "2022"
+            ]
+        },
+        {
+            "valor": "Proveedores locales, en % sobre total en US$",
+            "categoria": "Social",
+            "descripcion": "El porcentaje de proveedores locales se mantuvo en un 87,3%, lo que representa un ligero descenso del 1,9% en comparación al año anterior.",
+            "keywords": [
+                "proveedores locales",
+                "2022"
+            ]
+        },
+        {
+            "valor": "Capacitación por colaborador, en horas",
+            "categoria": "Social",
+            "descripcion": "La capacitación promedio por colaborador fue de 32,1 horas, un aumento del 11,7% respecto a 2021.",
+            "keywords": [
+                "capacitación",
+                "colaboradores",
+                "2022"
+            ]
+        },
+        {
+            "valor": "% renovable (eólico e hidro)",
+            "categoria": "Medioambiente",
+            "descripcion": "El porcentaje de energía generada a partir de fuentes renovables fue del 12,7%, aumentando en 1,6% respecto al año anterior.",
+            "keywords": [
+                "energía renovable",
+                "2022",
+                "eólico",
+                "hidro"
+            ]
+        },
+        {
+            "valor": "Emisiones de gases de efecto invernadero por actividad, tCOe",
+            "categoria": "Medioambiente",
+            "descripcion": "Las emisiones de gases de efecto invernadero por generación de energía fueron de 0,36 tCOe/MWh, y 0,18 tCOe para el sector de E&P, con reducciones significativas.",
+            "keywords": [
+                "emisiones",
+                "tCOe",
+                "generación",
+                "E&P"
+            ]
+        }
+    ]
+}

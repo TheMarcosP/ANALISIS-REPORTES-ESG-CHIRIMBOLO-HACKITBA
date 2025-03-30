@@ -1,0 +1,104 @@
+{
+    "resultados": [
+        {
+            "valor": "160,000 hectares",
+            "categoria": "Social",
+            "descripcion": "Total area after acquiring assets, mostly consisting of pine and eucalyptus plantations in Corrientes and Entre R\u00edos, Argentina.",
+            "keywords": [
+                "hectares",
+                "forestry",
+                "Sustainability"
+            ]
+        },
+        {
+            "valor": "58% increase",
+            "categoria": "Social",
+            "descripcion": "Increase in generation at the Piedra del \u00c1guila Hydro Power Plant compared to 2022.",
+            "keywords": [
+                "Hydroelectric generation",
+                "Piedra del \u00c1guila",
+                "increase"
+            ]
+        },
+        {
+            "valor": "37.2 million",
+            "categoria": "Social",
+            "descripcion": "Total greenhouse gas emissions measured in tons of CO2 equivalent.",
+            "keywords": [
+                "emissions",
+                "greenhouse gases",
+                "Carbon footprint"
+            ]
+        },
+        {
+            "valor": "0.8 tons CO2e/MWh",
+            "categoria": "Social",
+            "descripcion": "CO2 emissions per produced MWh in 2023.",
+            "keywords": [
+                "CO2",
+                "emissions",
+                "MWh"
+            ]
+        },
+        {
+            "valor": "ISO certifications",
+            "categoria": "Social",
+            "descripcion": "The company holds ISO certifications 14001, 9001, and 45001, reflecting its commitment to sustainability and safety standards.",
+            "keywords": [
+                "ISO 14001",
+                "ISO 9001",
+                "ISO 45001"
+            ]
+        },
+        {
+            "valor": "32.88% decrease",
+            "categoria": "Social",
+            "descripcion": "Decrease in the total volume of recyclable waste generated, with an increase in the proportion of recyclable materials.",
+            "keywords": [
+                "waste management",
+                "recyclable materials",
+                "decrease"
+            ]
+        },
+        {
+            "valor": "$150 million",
+            "categoria": "Social",
+            "descripcion": "Estimated investment required to close the Combined Cycle at Brigadier Lopez Thermal Power Plant, aiming to supply 300,000 households.",
+            "keywords": [
+                "investment",
+                "thermal energy",
+                "Brigadier Lopez"
+            ]
+        },
+        {
+            "valor": "10,000 tons",
+            "categoria": "Social",
+            "descripcion": "Total weight in materials donated for recycling in 2023.",
+            "keywords": [
+                "recycling",
+                "materials donated",
+                "social responsibility"
+            ]
+        },
+        {
+            "valor": "37,232,818",
+            "categoria": "Social",
+            "descripcion": "Amount in USD for the issuance of negotiable obligations for working capital needs.",
+            "keywords": [
+                "capital",
+                "financial management",
+                "bonds"
+            ]
+        },
+        {
+            "valor": "Sustainability Management",
+            "categoria": "Gobernanza",
+            "descripcion": "Implementation of an Integrated Management System focusing on economic, social, and environmental sustainability.",
+            "keywords": [
+                "ESG",
+                "sustainability",
+                "governance"
+            ]
+        }
+    ]
+}

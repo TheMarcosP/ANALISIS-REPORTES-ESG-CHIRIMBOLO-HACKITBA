@@ -1,0 +1,97 @@
+{
+    "resultados": [
+        {
+            "valor": "$120.071 millones",
+            "categoria": "Social",
+            "descripcion": "Aporte social invertido en infraestructura.",
+            "keywords": [
+                "aporte social",
+                "infraestructura",
+                "inversi\u00f3n"
+            ]
+        },
+        {
+            "valor": "30 millones de clientes",
+            "categoria": "Social",
+            "descripcion": "N\u00famero total de clientes.",
+            "keywords": [
+                "clientes",
+                "telecomunicaciones"
+            ]
+        },
+        {
+            "valor": "78.000 km",
+            "categoria": "Medioambiente",
+            "descripcion": "Extensi\u00f3n de redes h\u00edbridas y complementarias.",
+            "keywords": [
+                "redes",
+                "infraestructura"
+            ]
+        },
+        {
+            "valor": "21% de mujeres en puestos de liderazgo",
+            "categoria": "Social",
+            "descripcion": "Porcentaje de mujeres en liderazgo.",
+            "keywords": [
+                "g\u00e9nero",
+                "liderazgo",
+                "diversidad"
+            ]
+        },
+        {
+            "valor": "$95 millones",
+            "categoria": "Gobernanza",
+            "descripcion": "Inversi\u00f3n en sustentabilidad.",
+            "keywords": [
+                "inversi\u00f3n",
+                "sustentabilidad"
+            ]
+        },
+        {
+            "valor": "3% de reducci\u00f3n del consumo energ\u00e9tico",
+            "categoria": "Medioambiente",
+            "descripcion": "Reducci\u00f3n de la intensidad energ\u00e9tica respecto al a\u00f1o anterior.",
+            "keywords": [
+                "energ\u00eda",
+                "reducci\u00f3n",
+                "sustentabilidad"
+            ]
+        },
+        {
+            "valor": "97% de poblaci\u00f3n urbana con cobertura 4G/LTE",
+            "categoria": "Social",
+            "descripcion": "Porcentaje de poblaci\u00f3n con acceso a servicios de telecomunicaciones.",
+            "keywords": [
+                "cobertura",
+                "telecomunicaciones"
+            ]
+        },
+        {
+            "valor": "14,75 horas promedio de formaci\u00f3n por colaborador",
+            "categoria": "Social",
+            "descripcion": "Promedio de horas de formaci\u00f3n por empleado.",
+            "keywords": [
+                "formaci\u00f3n",
+                "empleados"
+            ]
+        },
+        {
+            "valor": "90% de proveedores locales",
+            "categoria": "Social",
+            "descripcion": "Porcentaje de proveedores que son locales.",
+            "keywords": [
+                "proveedores",
+                "locales"
+            ]
+        },
+        {
+            "valor": "86% de m\u00f3dems y decodificadores recuperados",
+            "categoria": "Medioambiente",
+            "descripcion": "Porcentaje de equipos recuperados.",
+            "keywords": [
+                "reciclaje",
+                "tecnolog\u00eda"
+            ]
+        }
+    ]
+}

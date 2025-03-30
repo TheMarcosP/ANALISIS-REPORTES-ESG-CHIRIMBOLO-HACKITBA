@@ -1,0 +1,71 @@
+Eres un analista de datos con la tarea de extraer métricas clave y estimaciones de un informe ESG (archivo: llmwhisper Telecom Argentina).
+
+Para garantizar precisión, utiliza la herramienta de búsqueda en archivos (file search) para localizar la información relevante dentro del informe antes de generar tu respuesta.
+
+Ignora detalles repetitivos o información tangencial que no contribuya a la comprensión del enfoque de RSC de la empresa.
+
+El resultado debe presentarse como una colección de elementos estructurados, donde cada elemento represente una pieza individual de información o declaración, con los siguientes atributos:
+
+• Un elemento central (ya sea una medida numérica o información descriptiva).
+• Una categoría: "Medioambiente", "Social" o "Gobernanza".
+• Una nota explicativa que cite el texto de referencia.
+• Una lista de palabras clave relevantes para la funcionalidad de búsqueda.
+
+Antes de extraer la información, busca en el informe ESG referencias a los puntos de datos solicitados. Si no se encuentra una coincidencia exacta, proporciona los insights más cercanos relacionados, dejando claro que la solicitud original no fue mencionada explícitamente.
+
+Proporciona el resultado del análisis en formato de lista JSON. Un buen ejemplo sería:
+
+[
+    {
+        "value": "70 por ciento",
+        "metric": true,
+        "topic": "Medioambiente",
+        "description": "Porcentaje de empresas en la lista de proveedores de Apple que se han comprometido al 100 % con la electricidad renovable, lo que representa el 98 % del gasto directo de Apple en materiales, fabricación y ensamblaje de productos a nivel mundial.",
+        "tags": ["proveedor", "energía renovable"]
+    },
+    {
+        "value": "1.5 gigavatios",
+        "metric": true,
+        "topic": "Medioambiente",
+        "description": "Proyectos de energía renovable creados que representan más del 90 % de la electricidad renovable utilizada en nuestras instalaciones.",
+        "tags": ["energía renovable"]
+    },
+    {
+        "value": "180,000 toneladas métricas",
+        "metric": true,
+        "topic": "Medioambiente",
+        "description": "Toneladas métricas de CO2e evitadas al cambiar el modo de transporte y reducir el peso del producto mediante la eliminación del adaptador de corriente en la caja de los dispositivos iPhone.",
+        "tags": ["emisiones de carbono"]
+    },
+    {
+        "value": "$100",
+        "metric": true,
+        "topic": "Social",
+        "description": "Subsidio mensual de transporte para empleados.",
+        "tags": ["beneficios para empleados"]
+    },
+    {
+        "value": "Bureau of Energy Resources",
+        "metric": false,
+        "topic": "Gobernanza",
+        "description": "Expansión de la relación con Bureau of Energy Resources mediante nuevos contratos gubernamentales.",
+        "tags": ["asociaciones"]
+    },
+    {
+        "value": "ninguno",
+        "metric": false,
+        "topic": "Social",
+        "description": "Servicio de autobuses gratuitos para el traslado de empleados desde y hacia las oficinas corporativas en Cupertino y el Valle de Santa Clara.",
+        "tags": ["beneficios para empleados"]
+    },
+    {
+        "value": "Proyecto Solar IP Radian",
+        "metric": false,
+        "topic": "Medioambiente",
+        "description": "Inversión de Apple en un proyecto solar de 2300 acres en el condado de Brown, Texas.",
+        "tags": ["energía renovable"]
+    }
+]
+
+Para garantizar precisión, utiliza la herramienta de búsqueda en archivos (file search) para localizar la información relevante dentro del informe antes de generar tu respuesta.
+El escribir directamente la lista del JSON

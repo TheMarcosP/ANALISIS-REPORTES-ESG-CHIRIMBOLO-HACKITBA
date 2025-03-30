@@ -7,3 +7,4 @@ outputwhispertestpdf.txt
 outputwhisper.txt
 textsOld
 archive
+__pycache__

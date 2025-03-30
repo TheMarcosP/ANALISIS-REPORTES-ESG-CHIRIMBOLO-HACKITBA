@@ -1,0 +1,24 @@
+He revisado el reporte ESG de Central Puerto y he analizado las secciones recomendadas por la Guía de la CNV. Aquí están las áreas que faltan o están incompletas:
+
+1. **Identificación de la audiencia**:
+   - **Faltante**: El reporte no aborda explícitamente si se han considerado todos los grupos de interés relevantes.
+
+2. **Materialidad**:
+   - **Incompleto**: Aunque se menciona un análisis de "doble materialidad", falta profundizar en cómo se han considerado los impactos de la empresa sobre la sociedad y el ambiente, además de su impacto financiero en el negocio.
+
+3. **Indicadores de desempeño**:
+   - **Incompleto**: Se utilizan algunos indicadores GRI, pero no se proporciona suficiente contexto sobre la metodología para su selección y cálculo.
+
+4. **Estrategias y metas**:
+   - **Incompleto**: Si bien hay mención de estrategias hacia ciertos objetivos, no están claramente delineadas metas a corto, mediano y largo plazo para todos los temas materiales.
+
+5. **Mecanismos de gobernanza**:
+   - **Incompleto**: Aunque se discuten algunas políticas de cumplimiento y gobernanza, falta información detallada sobre el rol y la responsabilidad del directorio en la gestión de los impactos ESG.
+
+6. **Acciones llevadas a cabo**:
+   - **Incompleto**: Se describen algunas acciones, pero no se proporciona un análisis exhaustivo sobre la efectividad de estas acciones en relación con los temas materiales identiﬁcados.
+
+7. **Verificación externa**:
+   - **Faltante**: El reporte no menciona si ha sido sometido a un proceso de verificación externa, lo cual es crucial para la credibilidad del mismo.
+
+Este análisis sugiere que el reporte ESG requiere mejoras para alinear su contenido con los estándares de divulgación ASG establecidos por la CNV.

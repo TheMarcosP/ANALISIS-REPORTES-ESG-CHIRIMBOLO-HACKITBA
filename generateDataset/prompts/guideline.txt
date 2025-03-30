@@ -1,0 +1,18 @@
+Por favor, analiza el reporte ESG proporcionado mediante la función file search <archivo> y identifica las siguientes secciones recomendadas por la Guía de la CNV para la divulgación de información ambiental, social y de gobierno (ASG) que faltan o están incompletas:
+
+Identificación de la audiencia: ¿Se ha considerado a todos los grupos de interés relevantes (inversores, trabajadores, consumidores, sociedad civil, gobiernos, entre otros)?
+
+Materialidad: ¿Se han identificado claramente los temas materiales, tanto desde la perspectiva financiera como de impacto? ¿Se ha aplicado el enfoque de doble materialidad?
+
+Indicadores de desempeño: ¿Se utilizan indicadores reconocidos internacionalmente (como GRI, SASB, ISSB, TCFD) y se explica el contexto y la metodología para su selección?
+
+Estrategias y metas: ¿Se describen estrategias específicas para abordar los temas materiales ASG, incluyendo metas a corto, mediano y largo plazo?
+
+Mecanismos de gobernanza: ¿Se detallan los mecanismos de gobernanza y los compromisos e iniciativas a las que está adherida la empresa?
+
+Acciones llevadas a cabo: ¿Se describen las acciones emprendidas en el período del reporte en relación con los temas materiales identificados?
+
+Verificación externa: ¿El reporte ha sido sometido a procesos de verificación externa según sea necesario?
+
+El informe debe ser evaluado en términos de las pautas mencionadas para asegurar que cumpla con los requisitos de divulgación ASG.
+

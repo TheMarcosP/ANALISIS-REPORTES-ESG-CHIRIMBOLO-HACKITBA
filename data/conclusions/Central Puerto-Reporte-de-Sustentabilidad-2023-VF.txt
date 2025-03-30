@@ -1,0 +1,32 @@
+### Resumen del Informe ESG de Central Puerto
+
+#### Hallazgos Clave:
+- **Área Social**: Central Puerto ha adquirido 160,000 hectáreas de plantaciones en Corrientes y Entre Ríos, destacando un incremento del 58% en la generación de energía hidroeléctrica en la planta Piedra del Águila.
+- **Emisiones**: Las emisiones de gases de efecto invernadero alcanzan 37.2 millones de toneladas de CO2 equivalente, con 0.8 toneladas de CO2e por MWh producido.
+- **Iniciativas de Sostenibilidad**: La empresa posee certificaciones ISO 14001, 9001 y 45001, y ha reducido el volumen de desechos reciclables en un 32.88%.
+
+#### Evaluación de Cumplimiento:
+- El informe presenta áreas significativas de incumplimiento con la **Guía de la CNV**: carece de una identificación clara de la audiencia y un análisis exhaustivo de la materialidad, además de no describir en detalle las estrategias y metas a corto, mediano y largo plazo.
+- **Comparación con la legislación argentina**: El informe presenta un puntaje de 42, con variaciones en el cumplimiento de leyes relevantes, cuya puntuación promedio se sitúa en torno a 0.4 a 0.6.
+
+#### Interpretación de los Puntajes ESG:
+- **Puntajes Individuales**:
+  - **Ambiente**: 28
+  - **Social**: 51
+  - **Gobernanza**: 53
+- El puntaje global ESG de 42 sugiere que hay margen considerable para mejorar en el cumplimiento de estándares ambientales.
+
+#### Perspectivas de Similitud de Texto:
+- Varias secciones del informe no reflejan adecuadamente las leyes argentinas. Destacan las siguientes:
+  - Cumplimiento deficiente con leyes de sostenibilidad y renovables (ej. Ley 27.424 y Ley 27.191).
+  - Inconsistencias en la gobernanza ambiental conforme a la Ley de Responsabilidades.
+
+#### Mejoras Potenciales:
+1. **Identificación de la audiencia**: Definir claramente los grupos de interés y cómo se involucra a cada uno.
+2. **Análisis de materialidad**: Profundizar en los impactos sociales y ambientales, más allá de las repercusiones económicas.
+3. **Estrategias y Metas**: Establecer objetivos claros y medibles con plazos definidos.
+4. **Mecanismos de gobernanza**: Detallar la responsabilidad del directorio en la gestión ESG.
+5. **Análisis de efectividad**: Proporcionar información detallada sobre los resultados de las acciones implementadas.
+6. **Verificación externa**: Incluir un proceso de verificación externa para aumentar la credibilidad del informe.
+
+Este resumen proporciona una visión clara sobre el desempeño y áreas de mejora en la gestión ESG de Central Puerto, alineándose con los estándares de regulación y mejores prácticas en Argentina.

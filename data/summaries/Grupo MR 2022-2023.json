@@ -1,0 +1,104 @@
+{
+    "resultados": [
+        {
+            "valor": "306.3 tCO2e",
+            "categoria": "Medioambiente",
+            "descripcion": "Huella total del ejercicio, con un aumento del 2400% en comparaci\u00f3n con el ejercicio anterior.",
+            "keywords": [
+                "huella de carbono",
+                "emisiones",
+                "sostenibilidad"
+            ]
+        },
+        {
+            "valor": "188.9 tCO2e",
+            "categoria": "Medioambiente",
+            "descripcion": "Emisiones de Alcance 1, mayoritariamente debido al consumo energ\u00e9tico y movilidad.",
+            "keywords": [
+                "alcance 1",
+                "consumo energ\u00e9tico",
+                "movilidad"
+            ]
+        },
+        {
+            "valor": "37.4 tCO2e",
+            "categoria": "Medioambiente",
+            "descripcion": "Emisiones de Alcance 2, 77.3% menos que el ejercicio anterior.",
+            "keywords": [
+                "alcance 2",
+                "reducci\u00f3n",
+                "emisiones"
+            ]
+        },
+        {
+            "valor": "80 tCO2e",
+            "categoria": "Medioambiente",
+            "descripcion": "Emisiones de Alcance 3, donde se analiza el impacto del consumo de electricidad por parte de los empleados.",
+            "keywords": [
+                "alcance 3",
+                "impacto",
+                "electricidad"
+            ]
+        },
+        {
+            "valor": "149,608 kWh",
+            "categoria": "Medioambiente",
+            "descripcion": "Consumo total de electricidad en oficinas durante el a\u00f1o.",
+            "keywords": [
+                "consumo el\u00e9ctrico",
+                "oficinas",
+                "sostenibilidad"
+            ]
+        },
+        {
+            "valor": "$4,278,230,864",
+            "categoria": "Social",
+            "descripcion": "Gasto total en proveedores, manteniendo un 98.85% en proveedores locales.",
+            "keywords": [
+                "gasto en proveedores",
+                "impacto socioecon\u00f3mico",
+                "compras responsables"
+            ]
+        },
+        {
+            "valor": "66.12 kWh/m2",
+            "categoria": "Medioambiente",
+            "descripcion": "Ratio de intensidad energ\u00e9tica de Matba Rofex, midiendo el consumo en oficinas.",
+            "keywords": [
+                "intensidad energ\u00e9tica",
+                "eficiencia",
+                "sostenibilidad"
+            ]
+        },
+        {
+            "valor": "75 kg",
+            "categoria": "Social",
+            "descripcion": "Cantidad de papel recuperado, destacando la pol\u00edtica de reutilizaci\u00f3n de materiales.",
+            "keywords": [
+                "reciclaje",
+                "responsabilidad social",
+                "sostenibilidad"
+            ]
+        },
+        {
+            "valor": "Iv21-22",
+            "categoria": "Gobernanza",
+            "descripcion": "El informe se ha elaborado conforme a los Est\u00e1ndares Universales 2021 de GRI para el periodo mencionado.",
+            "keywords": [
+                "transparencia",
+                "gobernanza",
+                "ESG"
+            ]
+        },
+        {
+            "valor": "0%",
+            "categoria": "Medioambiente",
+            "descripcion": "Porcentaje de energ\u00eda renovable en el consumo el\u00e9ctrico total, indicando \u00e1reas de mejora.",
+            "keywords": [
+                "energ\u00eda renovable",
+                "sostenibilidad",
+                "an\u00e1lisis energ\u00e9tico"
+            ]
+        }
+    ]
+}

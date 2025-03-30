@@ -4,7 +4,7 @@ import pathlib
 import os
 
 
-def upload_to_vector_store(input_path, client):
+def uploadToVectorStore(input_path, client):
     vector_store_name = os.path.basename(input_path).split(".")[0]  # Extract name from file path
     vector_store = client.vector_stores.create(  # Create vector store
         name=vector_store_name,
@@ -16,7 +16,7 @@ def upload_to_vector_store(input_path, client):
         file=open(input_path, "rb"),
     )
 
-    return response
+    return response, vector_store
 
 if __name__ == "__main__":
 
@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
     # Upload it to the vector store
     print(f"[*] Parsing {name}.txt to vector store...")
-    response = upload_to_vector_store(parsed_file, client)
+    response = uploadToVectorStore(parsed_file, client)
     if response.last_error:
         print("[x] Something went wrong: ", response.last_error)
     else:
